@@ -59,7 +59,7 @@ Ensure you have the following installed:
 - Send a POST request to `/api/translator` with an image file to extract and translate text.
 - Example API request:
   ```sh
-  curl -X POST http://127.0.0.1:8000//api/translator -F "file=@image.jpg"
+  curl -X POST http://127.0.0.1:8000/api/translator -F "file=@image.jpg"
   ```
 
 ## API Endpoints
