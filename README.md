@@ -1,6 +1,5 @@
 # Image Text Translator
 
-## Overview
 **Image Text Translator** is a backend system built with Django that extracts text from images and translates it into any language. The system utilizes **Tesseract OCR** for accurate text recognition and translation.
 
 ## Features
